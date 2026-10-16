@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as a GIS portfolio project and cite the original datasets separately."
+title: "Brahmaputra Flood Risk and River Migration Screening — Majuli, Assam, India"
+type: software
+authors:
+  - family-names: Gautam
+    given-names: Gunjan
+abstract: "A Google Earth Engine and QGIS project combining historical river-water change, historical flood-event frequency, and building exposure for relative flood-risk screening around Majuli, Assam, India."
+keywords:
+  - GIS
+  - remote sensing
+  - Google Earth Engine
+  - QGIS
+  - flood risk
+  - river migration
+  - Assam
+  - Majuli
